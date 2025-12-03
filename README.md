@@ -1,1 +1,1 @@
-# TP2_Algo-c
+# TP-Algo-c
